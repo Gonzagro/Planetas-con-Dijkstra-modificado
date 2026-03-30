@@ -149,5 +149,3 @@ int main(){
     cout << res << endl;
     return 0;
 }
-// g++ -o viaje.exe viaje.cpp
-// .\viaje.exe
