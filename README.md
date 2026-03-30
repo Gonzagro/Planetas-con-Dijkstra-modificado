@@ -1,4 +1,4 @@
-#Planetas
+# Planetas
 
 ## Descripción
 Resolución de un problema de Dijkstra modificado de Codeforces en C++.
@@ -16,5 +16,5 @@ O((n + m) log n)
 g++ -o viaje.exe viaje.cpp  
 .\viaje.exe
 
-##Problema: https://codeforces.com/contest/230/problem/D
+## Problema: https://codeforces.com/contest/230/problem/D
 
