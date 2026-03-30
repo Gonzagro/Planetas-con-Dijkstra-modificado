@@ -13,8 +13,9 @@ Se utiliza una variante de Dijkstra teniendo en cuenta tiempos en los que no se 
 O((n + m) log n)
 
 ## Cómo ejecutar
-g++ -o viaje.exe viaje.cpp  
-.\viaje.exe
+- g++ -o viaje.exe viaje.cpp  
+- .\viaje.exe
 
-## Problema: https://codeforces.com/contest/230/problem/D
+## Problema: 
+https://codeforces.com/contest/230/problem/D
 
